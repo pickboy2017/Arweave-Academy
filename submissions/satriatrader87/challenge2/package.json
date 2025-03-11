@@ -126,7 +126,7 @@
     "please-upgrade-node": "^3.2.0",
     "posthtml": "^0.16.6",
     "posthtml-match-helper": "^2.0.3",
-    "posthtml-parser": "^0.11.0",
+    "posthtml-parser": "^0.12.1",
     "posthtml-render": "^3.0.0",
     "promise": "^7.3.1",
     "prr": "^1.0.1",
